@@ -49,3 +49,10 @@ print()
 
 for one_number in range(10, 15):
     print(one_number)
+    
+print()
+
+## Calling range with 3 elements
+
+for one_number in range(20, 30, 2):
+    print(one_number)
