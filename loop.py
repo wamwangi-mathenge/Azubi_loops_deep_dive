@@ -28,3 +28,11 @@ for i in range(len(s)):
     print(s[i])
     
 # This is unnecessary in Python
+print()
+
+## Range
+
+## What do we get from range in each iteration
+
+for one_item in range(3):
+    print(f"{one_item}: Hooray!!!")
