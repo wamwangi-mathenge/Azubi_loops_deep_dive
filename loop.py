@@ -56,3 +56,9 @@ print()
 
 for one_number in range(20, 30, 2):
     print(one_number)
+    
+print()
+
+## Counting backwards
+for one_number in range(30, 20, -1):
+    print(one_number)
