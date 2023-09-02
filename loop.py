@@ -15,3 +15,7 @@ s = "abcd"
 
 for one_letter in s: 
     print(one_letter)
+    
+print()    
+for one_item in [10, 20, 30]:
+    print(one_item)
