@@ -36,3 +36,8 @@ print()
 
 for one_item in range(3):
     print(f"{one_item}: Hooray!!!")
+    
+print()
+    
+for index in range(len(s)):
+    print(f"{s[index]}")
