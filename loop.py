@@ -41,3 +41,11 @@ print()
     
 for index in range(len(s)):
     print(f"{s[index]}")
+    
+    
+print()
+
+## Calling range with two elements
+
+for one_number in range(10, 15):
+    print(one_number)
