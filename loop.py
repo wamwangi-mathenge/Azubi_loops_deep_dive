@@ -19,3 +19,12 @@ for one_letter in s:
 print()    
 for one_item in [10, 20, 30]:
     print(one_item)
+    
+print()    
+    
+# How can I iterate over s, using the length/index?
+
+for i in range(len(s)):
+    print(s[i])
+    
+# This is unnecessary in Python
