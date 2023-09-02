@@ -62,3 +62,9 @@ print()
 ## Counting backwards
 for one_number in range(30, 20, -1):
     print(one_number)
+    
+print()
+
+## Enumerate
+for one_item in enumerate(s):
+    print(one_item)
